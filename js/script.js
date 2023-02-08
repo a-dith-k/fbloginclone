@@ -45,7 +45,7 @@ $(document).ready(function(){
         messages:{
             fname:{
                 required:"required",
-                minlength:"enter 4 letters please"
+                minlength:"enter atleast 4 characters please"
             },
             conpassword: {
                 equalTo: "password does not match"
